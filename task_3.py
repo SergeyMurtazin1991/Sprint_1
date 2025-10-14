@@ -17,4 +17,4 @@ def is_country_champion(country):
         print(f'{country} не выигрывала чемпионат мира по футболу в 21 веке.')
 
 test_country = 'Италия'
-is_country_champion(test_country)
+is_country_champion(test_country)#

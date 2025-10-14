@@ -12,4 +12,4 @@ def calculate_total_minutes(time_str):
 
 test_str = '1h 45m,360s,25m,30m 120s,2h 60s'
 total_minutes_result = calculate_total_minutes(test_str)
-print(total_minutes_result)
+print(total_minutes_result)#

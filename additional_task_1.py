@@ -36,4 +36,4 @@ def connect_tickets_with_severity_types(types, tickets):
 tickets_without_duplicate = delete_duplicate_tickets(tickets)
 connected_tickets = connect_tickets_with_severity_types(types, tickets_without_duplicate)
 print(tickets_without_duplicate)
-print(connected_tickets)
+print(connected_tickets)#
